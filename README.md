@@ -9,8 +9,8 @@ Customers who successfully converted from all people who visited the company web
 3. Anticipate further decline in sales
 
 **Dataset:**
-* Numerical Features:
-1. Administrative
+* Numerical Features: 
+1. Administrative:= Number of administrative pages visited by users during the session
 2. Administrative Duration
 3. Informational
 4. Informational Duration
