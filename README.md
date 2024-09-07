@@ -1,15 +1,31 @@
-# Unlocking-Online-Shopper-Behavior
+# Optimizing Customer Conversion Rates in E-Commerce
 
 **Problem:**
-There are many visitors on the e-commerce company website, but only a few visitors make purchases. Only 16% of visitors make a purchase, while the remaining 84% only visit the e-commerce web page. Therefore, we need to understand the factors that influence the visitor's purchasing decision.
+Customers who successfully converted from all people who visited the company website were 15.5%, with an average conversion of 14.45 per month. Shop Ease as one of the e-commerce platforms still wants to maintain and improve this conversion rate. However, the company still does not have a deep understanding of the factors that affect customer conversion. Without an understanding of conversions and predictive tools, the company risks missing opportunities to optimize marketing strategies and facing a potential decline in customer conversions.
 
 **Goal:**
-Increase the conversion rate of e-commerce visitors.
+1. Identify factors that affect customer conversion
+2. Increase company sales
+3. Anticipate further decline in sales
 
-**Objective:**
-1. Increase the visitor conversion rate and revenue of e-commerce companies through the creation of predictive models that can predict whether a visitor will make a purchase or not.
-2. Creating a customer segmentation model based on the behavior of a visitor's duration in visiting a page. 
-3. Identify and understand user behavior that has the most influence on revenue generation decisions, and provide data-based recommendations to increase conversions. 
-
-**Business Metrics:**
-Conversion Rate -> The percentage of visitors who will eventually make a purchase or not.
+**Dataset:**
+Numerical Features:
+1. Administrative
+2. Administrative Duration
+3. Informational
+4. Informational Duration
+5. Product Related
+6. Product Related Duration
+7. Bounce Rates
+8. Exit Rates
+9. Page Value
+Categorical Features:
+1. Special Day
+2. Month
+3. Operating Systems
+4. Browser
+5. Region
+6. Traffic Type
+7. Visitor Type
+8. Weekend
+Label: Revenue
