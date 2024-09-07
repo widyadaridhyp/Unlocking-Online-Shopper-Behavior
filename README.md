@@ -38,6 +38,11 @@ Customers who successfully converted from all people who visited the company web
 
 **Insight and Recommendation:**
 1. Identify factors that affect customer conversion
-> Based on the results of identifying factors that affect customer conversion, the 5 factors that have the most significant impact are administrative, product related, page value, month, and product related duration. Thus, we need to prioritize focusing on these 5 factors.
+> Based on the results of identifying factors that affect customer conversion, the 5 factors that have the most significant impact are administrative, product related, page value, month, and product related duration. Thus, we need to prioritize focusing on these 5 factors to increase the conversion rate.
 2. Increase company sales
+* Insight:
+  > Page Value, Product Related, and Administrative features significantly increase visitors' chances of making a purchase.
+  > Returning visitors dominate website traffic with low visitor conversion low visitor conversion indicates that some visitors are happy browsing products, but the products they find do not match their preferences.
+  > There is an increase in conversions in May and November, as well as on weekends.
+* Recommendation:
 3. Anticipate further decline in sales
