@@ -19,6 +19,7 @@ Numerical Features:
 7. Bounce Rates
 8. Exit Rates
 9. Page Value
+
 Categorical Features:
 1. Special Day
 2. Month
@@ -28,4 +29,5 @@ Categorical Features:
 6. Traffic Type
 7. Visitor Type
 8. Weekend
+
 Label: Revenue
