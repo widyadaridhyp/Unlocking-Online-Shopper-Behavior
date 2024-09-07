@@ -9,7 +9,7 @@ Customers who successfully converted from all people who visited the company web
 3. Anticipate further decline in sales
 
 **Dataset:**
-Numerical Features:
+* Numerical Features:
 1. Administrative
 2. Administrative Duration
 3. Informational
@@ -19,8 +19,7 @@ Numerical Features:
 7. Bounce Rates
 8. Exit Rates
 9. Page Value
-
-Categorical Features:
+* Categorical Features:
 1. Special Day
 2. Month
 3. Operating Systems
@@ -29,5 +28,4 @@ Categorical Features:
 6. Traffic Type
 7. Visitor Type
 8. Weekend
-
-Label: Revenue
+* Label: Revenue
