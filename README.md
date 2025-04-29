@@ -37,17 +37,17 @@ Customers who successfully converted from all people who visited the company web
 4. What can be done to increase the company's conversion rate?
 
 **Insight and Recommendation:**
-1. Identify factors that affect customer conversion
-   > Based on the results of identifying factors that affect customer conversion, the 5 factors that have the most significant impact are administrative, product related, page value, month, and product related duration. Thus, we need to prioritize focusing on these 5 factors to increase the conversion rate.
-2. Increase company sales
-   > Insight:
+1. Identify factors that affect customer conversion <space>
+Based on the results of identifying factors that affect customer conversion, the 5 factors that have the most significant impact are administrative, product related, page value, month, and product related duration. Thus, we need to prioritize focusing on these 5 factors to increase the conversion rate.
+2. Increase company sales<space>
+   - Insight:
       * Page Value, Product Related, and Administrative features significantly increase visitors' chances of making a purchase.
       * Returning visitors dominate website traffic with low visitor conversion low visitor conversion indicates that some visitors are happy browsing products, but the products they find do not match their preferences.
       * There is an increase in conversions in May and November, as well as on weekends.
-   > Recommendation:
+   - Recommendation:
       * Focus on increasing Page Value and Product Related by providing relevant and engaging content to drive conversions.
          1. Product description optimization
          2. Utilize company data (visitor activity) to implement product recommendations according to each visitor's preferences.
       * Take advantage of weekends, months approaching May and November (months leading up to holidays or year-end) to optimize marketing.
-3. Anticipate further decline in sales
-   > Apply the prediction model well and conduct evaluation, as well as regular monitoring of campaign and model performance
+3. Anticipate further decline in sales <space>
+Apply the prediction model well and conduct evaluation, as well as regular monitoring of campaign and model performance
